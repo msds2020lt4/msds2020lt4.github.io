@@ -57,4 +57,4 @@ GDI<br>
 Country<br>
 	Name of Country<br>
 HDI<br>
-\t Human Development Index<br>
+	Human Development Index<br>
