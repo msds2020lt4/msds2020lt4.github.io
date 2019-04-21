@@ -4791,6 +4791,7 @@ button.close {
 .carousel-item-next,
 .carousel-item-prev {
   display: block;
+  margin: auto;
   -webkit-transition: -webkit-transform 0.6s ease;
   transition: -webkit-transform 0.6s ease;
   -o-transition: transform 0.6s ease;
@@ -5413,7 +5414,8 @@ button.bg-dark:focus {
 .justify-content-center {
   -webkit-box-pack: center !important;
   -ms-flex-pack: center !important;
-  justify-content: center !important; }
+  justify-content: center !important; 
+}
 
 .justify-content-between {
   -webkit-box-pack: justify !important;

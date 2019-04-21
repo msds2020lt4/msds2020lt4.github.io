@@ -4,7 +4,9 @@ body {
   color: gray;
   font-weight: 400;
   font-size: 1rem;
-  background: #000; }
+  background: #000; 
+  overflow-x: hidden;
+}
 
 ::-moz-selection {
   background: #000;
@@ -642,7 +644,9 @@ h1, h2, h3, h4, h5,
 
 .main-content {
   float: right;
-  width: calc(100% - 200px); }
+  width: calc(100% - 200px); 
+  height: 100%;
+}
   @media (max-width: 991.98px) {
     .main-content {
       width: 100%;
@@ -759,3 +763,26 @@ h1, h2, h3, h4, h5,
     .custom-pagination a:hover {
       background: #ef6c57;
       color: #fff; }
+
+      .carousel-inner > .item {
+  height: 100vh;
+}
+
+.carousel-inner > .item {
+  height: 700px;
+}
+
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  width: auto;
+}
+
+.carousel-control.left,
+.carousel-control.right {
+  background-image: none;
+}
