@@ -16,7 +16,7 @@ Sources:<br>
 **Economy (GDP per Capita)**<br>
   The extent to which GDP contributes to the calculation of the Happiness Score.<br>
 **Family**<br>
-  The extent to which Family contributes to the calculation of the Happiness Score<br><br>
+  The extent to which Family contributes to the calculation of the Happiness Score<br>
 **Health (Life Expectancy)**<br>
   The extent to which Life expectancy contributed to the calculation of the Happiness Score<br>
 **Freedom**<br>
