@@ -29,5 +29,10 @@
 **Dystopia Residual**<br>
   The extent to which Dystopia Residual contributed to the calculation of the Happiness Score.<br>
 
-
-	
+**POEA Jobs Abroad**<br>
+**Country**<br>
+	The country where the job opening is located.<br>
+**Position**<br>
+	The job title.<br>
+**JO Balance**<br>
+	The number of available positions.<br>
