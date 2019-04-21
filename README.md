@@ -36,3 +36,25 @@
 	The job title.<br>
 **JO Balance**<br>
 	The number of available positions.<br>
+
+**Deployed OFW per Country**<br>
+Country_of_Destination_1<br>
+	Land based or sea based<br>
+Country_of_Destination_2<br>
+	Continent/Region<br>
+Country_of_Destination_3<br>
+	Country<br>
+Count<br>
+	Number of OFW<br>
+
+**GDI**<br>
+Country<br>
+	Name of country<br>
+GDI<br>
+	Gender Development Index<br>
+
+**HDI**<br>
+Country<br>
+	Name of Country<br>
+HDI<br>
+Human Development Index<br>
