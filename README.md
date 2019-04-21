@@ -31,11 +31,11 @@
 
 **POEA Jobs Abroad**<br>
 **Country**<br>
-	The country where the job opening is located.<br>
+	<\t>The country where the job opening is located.<br>
 **Position**<br>
-	The job title.<br>
+	<\t>The job title.<br>
 **JO Balance**<br>
-	The number of available positions.<br>
+	<\t>The number of available positions.<br>
 
 **Deployed OFW per Country**<br>
 Country_of_Destination_1<br>
